@@ -44,6 +44,7 @@ function App() {
     },
   ]
 
+  
   const inicial = [
     {
       nome: 'JULIANA AMOASEI',
